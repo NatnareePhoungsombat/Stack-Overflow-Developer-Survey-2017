@@ -5,8 +5,8 @@ Project Submission : Data Science at Udacity.
 
 ## Installations.
   This project was written on Anaconda with Jupyter application by Python version 3.9.5. To check Python by `python --version`. 
-I use libary for support visualization using `numpy`, `pandas`, `seaborn`, `matplotlib` and `sklearn`.
-You can installation liblary as terminal on iOS system as follows:
+I use the library for support visualization using `numpy`, `pandas`, `seaborn`, `matplotlib` and `sklearn`.
+You can install the library as a terminal on the iOS system as follows:
 
 ```
 pip install numpy
