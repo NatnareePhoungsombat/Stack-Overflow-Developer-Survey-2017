@@ -48,7 +48,7 @@ This project consists of the following:
 6. Comparison of data from prediction.
 
   If you are looking to learn the basics of data analysis. I hope this article will be useful to you.
-
+To see blog post at [Meduim](https://medium.com/@light.nph1/the-result-of-stack-overflow-developer-survey-2017-80d7d74bd1a5)
 
 
 ## Copyright and license.
